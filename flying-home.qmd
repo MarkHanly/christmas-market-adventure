@@ -1,0 +1,63 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Flying home
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/santa-tipsycake.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Hannah and Meghan sat next to Santa, thier eyes wide with wonder as they glided gracefully through the night. Jingleberry, perched on the edge of the sleigh, jingled his bells in harmony with the magical melody of the journey.
+
+As they flew over snow-covered landscapes and twinkling villages, spreading festive joy with every passing moment, the girls felt the enchantment of the night. Tipsycake's hooves beat in rhythm with the sleigh, leaving a trail of stardust that shimmered in the night sky.
+
+Realising that it was getting late, Santa directed the sleigh towards Hubbard Woods. As they descended, Tipsycake gracefully touched down in front of the McGrotty home, her presence casting a magical glow over Scott Avenue.
+
+Santa smiled warmly at Hannah and Meghan and said, "Thank you, my dears, for helping me on this Christmas night. It's time for you both to head inside and await the wonders of the morning. 
+
+As Hannah and Meghan hugged Santa and Jingleberry goodbye, Tipsycake gave a gentle nuzzle, leaving behind a sprinkle of stardust. With a final "Ho, ho, ho!" Santa and his festive companions took to the sky, leaving the sisters behind with the magic of Christmas in their hearts.
+
+Falling asleep in their cozy beds, Hannah and Meghan dreamed of Christmas markets and chocolate reindeer. They dreamed of angry snowmen and Mrs Claus. They dreamed of Tipsycake the Christmas Unicorn flying high above the night-time forest. 
+
+***
+
+Hannah and Meghan dreamed of a kind, jingling voice asking "Where will I leave the girls' stockings, Santa?" 
+
+"Ho Ho Ho" came the reply "just leave them by there, over the fireplace". 
+
+
+::::
+
+::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### The End
+:::
+![](images/sisters-safe-home.png)
+
+:::
+
+
+
+::::::

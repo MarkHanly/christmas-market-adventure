@@ -1,0 +1,14 @@
+{
+  "hash": "523d326d490ac0100b85c11113f41f4e",
+  "result": {
+    "markdown": "---\ntitle: \"\"\ninclude-after-body:\n  text: |\n    <script>\n      document.getElementById(\"back\").addEventListener(\"click\", () => {\n        window.history.back();\n      });\n    </script>\n---\n\n\n\n\n:::::: {.scenario .column-screen}\n::: {.column-body .scenario-text}\n## About\n:::\n\n::: {.column-body .scenario-image}\n![](images/tipsycake-side-profile.png)\n:::\n\n::: {.column-body .scenario-text}\nYour guess is as good as mine.\n:::\n\n::::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

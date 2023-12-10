@@ -1,0 +1,76 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Santa Claus
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/sleigh-crash.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+As Hannah and Meghan descended from the starry sky they spotted Santa's sleigh lay nestled among the snow-covered trees of the night-time forest. The once-majestic sleigh, adorned with festive lights and laden with presents, was buried deep in tangle of briars.
+
+Hannah and Meghan padded towards the sleigh. Santa greeted the two rein-girls and the elf with a hearty "Ho, ho, ho! My dear friends, it seems I've hit a bit of a hiccup in my journey. The sleigh's harness got tangled in some flying gingerbread. I could use a bit of help to get everything back in order."
+
+"Fear not, Santa! We're here to lend a hand" said Jingleberry!
+
+Using their antlers, Hannah and Meghan carefully untangled the sleigh from the briars. Jingleberry ran back and forth gathering the fallen presents from the snow, his bells jingling all the way. 
+
+"Oh oh oh! Thank you Jingleberry, thank you girls!" cried Santa in delight. But what are we to do, the reindeer took fright and ran away to the night-time forest. 
+
+Hannah looked at Meghan and Meghan looked back at Hannah. They both shared a festive smile. 
+
+With Santa's help, Jingleberry quickly harnessed Hannah and Meghan to the sleigh. Soon they were ready to take to the skies on the most magical journey of the year.
+
+
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="final-options">
+  
+  <div class="option">
+  <a href="flying-home-reindeer.html"><img src="images/flying-home-reindeer.png" alt="Rein-girls to the rescue"<div>Rein-girls to the rescue</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

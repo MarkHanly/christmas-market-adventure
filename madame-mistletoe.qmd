@@ -1,0 +1,81 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Fortune Teller
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/madam-mistletoe.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Hannah and Meghan wandered wandered towards the fortune tellers, their eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As they approached the tent they noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
+
+Intrigued, Hannah and Meghan entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, she found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly enchantress with long red hair and twinkling green eyes.
+
+"Ah, welcome, dear girls! I've been expecting you," Madame Mistletoe said with smile. 
+
+Hannah and Meghan blinked in surprise. "You have? How did you know?"
+
+Madame Mistletoe chuckled softly. "I see things that others might not. Now, let us unveil the mysteries of your Christmas fortune" she said, offering the sisters a warm goblet of mulled mistletoe wine.
+
+Hannah and Meghan eagerly sat sipping the warming tonic while Madame Mistletoe gazed into her crystal bauble. The bauble sparkled with a magical glow, revealing flurried images of future adventures.
+
+"The crystal shows me visions of new friends and starry skies" Madame Mistletoe said, her voice filled with warmth. "Let laughter and friendship guide your way."
+
+"But beware the snowmen, they are not always what they seem" added madame Mistletoe frostily.
+
+Hannah and Meghan nodded, their excitement building. They thanked Madame Mistletoe and left the candlelit tent. _It sounds like our adventure is just starting!_ the sisters agreed excitedly. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="chocolate-stall.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="candy-cane-bridge.html"><img src="images/candy-cane-bridge.png" alt="The candy cane bridge"><div>The candy cane bridge</div></a>
+  </div>
+
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

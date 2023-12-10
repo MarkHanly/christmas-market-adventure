@@ -1,0 +1,14 @@
+{
+  "hash": "b2a54c4af118142286f532c5a2424f64",
+  "result": {
+    "markdown": "---\ntitle: \"\"\ninclude-before-body:\n  text: |\n    <script>\n      document.getElementById(\"back\").addEventListener(\"click\", () => {\n        window.history.back();\n      });\n    </script>\n---\n\n\n\n\n:::::: {.scenario .column-screen}\n\n:::: {.column-body .scenario-text}\n\n## Flying with Jingleberry\n\n::::\n\n::: {.column-body .scenario-image}\n\n![](images/cara-and-jingleberry.png)\n\n:::\n\n:::: {.column-body .scenario-text}\n\nCara giggled and pulled out the remaining giggling gumdrops from her pocket. \"How about we both have a gumdrop and see what happens?\" she suggested, handing one to Jingleberry.\n\nThe moment they both popped the giggling gumdrops into their mouths, laughter bubbled up from their hearts. The candy-cane bridge beneath them started to shimmer, and suddenly, they were lifted into the air, soaring over the Christmas forest.\n\nAs they giggled and floated through the sky, they spotted Santa's sleigh nestled among the tall evergreen trees. Santa's reindeer were grazing on magical snowflakes, and Santa himself was checking his list with a twinkle in his eye.\n\nNext, they flew over Santa's workshop, where cheerful elves were busy wrapping presents and preparing for the big night. The lights twinkled like a million stars, and the sound of holiday cheer filled the air.\n\nBut there was something else catching their attention. In a clearing below, they saw a group of playful snowmen having a snowball fight. Each snowball sparkled with a different color, creating a dazzling display of winter magic.\n\n::::\n\n:::: {.column-body .scenario-image}\n::: {style=\"text-align: center;\"}\n### What will you choose?\n:::\n\n\n  ```{=html}\n<div class=\"container\">\n\n  <div id=\"back\">\n  <a href=\"candy-cane-bridge.html\"><img src=\"images/back.png\" alt=\"Go back\" style=\"width: 100px; height: 100px; margin-right: 10px;\"></a>Go back\n  </div>\n  \n  <div class=\"options\">\n  <div class=\"option\">\n  <a href=\"index.html\"><img src=\"images/sleigh.png\" alt=\"Santa's sleigh\"><div>Santa's sleigh</div></a>\n  </div>\n  \n  <div class=\"option\">\n  <a href=\"santas-workshop.html\"><img src=\"images/santas-workshop.png\" alt=\"Santa's workshop\"><div>Santa's workshop</div></a>\n  </div>\n  \n  <div class=\"option\">\n  <a href=\"index.html\"><img src=\"images/snowmen.png\" alt=\"The snowmen\"<div>The snowmen</div></a>\n  </div>\n  \n  </div>\n  ```\n\n\n::::\n\n\n\n\n::::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "template.qmd": {
+    "template.html": "4bb7ebb2"
+  },
+  "index.qmd": {
+    "index.html": "13191056"
+  },
+  "test.qmd": {
+    "test.html": "bf2deee7"
+  },
+  "market.qmd": {
+    "market.html": "e7e1f2d3"
+  },
+  "chocolate-stall.qmd": {
+    "chocolate-stall.html": "4e4ca7b0"
+  },
+  "giggle-gumdrops.qmd": {
+    "giggle-gumdrops.html": "efe1004e"
+  },
+  "candy-cane-bridge.qmd": {
+    "candy-cane-bridge.html": "248dfb44"
+  },
+  "share-gumdrops.qmd": {
+    "share-gumdrops.html": "24deced3"
+  },
+  "santas-workshop.qmd": {
+    "santas-workshop.html": "b723965f"
+  },
+  "tipsycake.qmd": {
+    "tipsycake.html": "68281cd1"
+  },
+  "santas-sleigh.qmd": {
+    "santas-sleigh.html": "6b7c1068"
+  },
+  "flying-home.qmd": {
+    "flying-home.html": "a96fe80e"
+  },
+  "chocolate-reindeer.qmd": {
+    "chocolate-reindeer.html": "e51669df"
+  },
+  "madame-mistletoe.qmd": {
+    "madame-mistletoe.html": "eb616523"
+  },
+  "jingle-bell-path.qmd": {
+    "jingle-bell-path.html": "fc78725f"
+  },
+  "jinglebike.qmd": {
+    "jinglebike.html": "aecfd6b7"
+  },
+  "snowmen-reindeer.qmd": {
+    "snowmen-reindeer.html": "0cbbc841"
+  },
+  "jinglebike-crash.qmd": {
+    "jinglebike-crash.html": "35a887ad"
+  },
+  "cara-and-the-snowmen.qmd": {
+    "cara-and-the-snowmen.html": "75b109aa"
+  },
+  "about.qmd": {
+    "about.html": "e3c327de"
+  },
+  "sleigh-reindeer.qmd": {
+    "sleigh-reindeer.html": "f6adf0a0"
+  },
+  "sleigh-on-foot.qmd": {
+    "sleigh-on-foot.html": "1b0f710f"
+  },
+  "sleigh-tipsycake.qmd": {
+    "sleigh-tipsycake.html": "2db28d77"
+  },
+  "flying-home-reindeer.qmd": {
+    "flying-home-reindeer.html": "5253ff49"
+  },
+  "jinglebike2.qmd": {
+    "jinglebike2.html": "7d9cf00f"
+  },
+  "searching-for-santas-workshop.qmd": {
+    "searching-for-santas-workshop.html": "9c424531"
+  }
+}

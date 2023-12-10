@@ -1,0 +1,78 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Santa Claus
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/sleigh-crash.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+As Tipsycake descended from the starry sky, Hannah and Meghan spotted Santa's sleigh nestled among the snow-covered trees of the night-time forest. The once-majestic sleigh, adorned with festive lights and laden with presents, was buried deep in tangle of briars.
+
+As the girls approached with Jingleberry, Santa greeted them with a hearty "Ho, ho, ho! My dear friends, it seems I've hit a bit of a hiccup in my journey. The sleigh's harness got tangled in some flying gingerbread and we crashed into the snow."
+
+"But where are the reindeer, Santa?" asked Jingleberry. 
+
+"Prancer pranced off into the forest, and Dasher dashed after him" grumbled Santa. "Now they've all run off".
+
+"Fear not, Santa! We're here to lend a hand" said Jingleberry, and with a merry whistle he summoned Tipsycake. 
+
+Tipsycake approached the fallen sleigh with a gently whiny and a shake of her tinsel-mane. Her horn emitted a soft glow as she carefully untangled the branches, each touch restoring a bit of the sleigh's magic. 
+
+"Oh oh oh! Thank you Tipsycake!" cried Santa in delight. 
+
+Hannah and Meghan helped Jingleberry to harness Tipsycake to the sleigh while Santa picked up the presents that lay scattered in the snow. 
+
+Soon they were ready to take to the skies on the most magical journey of the year. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="final-options">
+  
+  <div class="option">
+  <a href="flying-home.html"><img src="images/harness-tipsycake.png" alt="Harness Tipsycake"<div>Harness Tipsycake</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

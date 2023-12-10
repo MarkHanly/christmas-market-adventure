@@ -1,0 +1,75 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Candy Cane Bridge
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/jingleberry.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+The air was filled with the sweet scent of peppermint and magic as Hannah and Meghan approached the candy-cane bridge.
+
+Just as the girls set foot on the bridge, Meghan heard a tiny voice nearby. Turning around, she discovered a mischievous Christmas elf named Jingleberry. With a twinkle in his eye and a hat adorned with jingling bells, Jingleberry looked like he was up to mischief.
+
+"Hello there, Hannah and Meghan!" Jingleberry exclaimed, doing a little jig. "I'm Jingleberry, the elf of festive fun! I need your help with something important."
+
+Hannah and Meghan looked at Jingleberry, their eyes wide with curiosity. "What can we do to help, Jingleberry?"
+
+Jingleberry explained that he had gotten lost in the snow while riding his bike and couldn't find his way back to Santa's workshop. He had even lost his knapsack and had no supper! 
+
+Poor little elf! thought the girls. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="jinglebike.html"><img src="images/jinglebike.png" alt="Take the jinglebike"><div>Take the jinglebike</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="searching-for-santas-workshop.html"><img src="images/forest-path.png" alt="Search for Santa's workshop"<div>Search for Santa's workshop</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

@@ -1,0 +1,76 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Lost in the night-time forest
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/forest-sleep.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Hannah, Meghan and Jingleberry walked for hours through the night-time forest. There was no sign of the lights from Santa's sleigh, just dark branches and the crunch of snow. 
+
+The sisters felt cold and tired and even Jingleberry had stopped jingling gaily by their side. 
+
+Finally the two girls sat down in the snow, exhausted. "I'm banjaxed" cried Hannah "and we're lost!" added Meghan. Jingleberry jangled and knelt in the snow beside the girls. Using his cloak as a blanket, he wrapped it around Hannah and Meghan and the sisters soon fell asleep. 
+
+"We're lost, we're lost" tinkled Jingleberry sadly, shivering in the snow.
+
+***
+
+Hannah and Meghan awoke as a radiant glow emerged through the trees. There, against the starlit backdrop, appeared Santa Claus atop Tipsycake, his majestic Christmas unicorn.
+
+Tipsycake was as white as freshly fallen snow, her mane was a glittering pink tinsel and her horn emitting an enchanting glow.  
+
+"Ho ho ho!" bellowed Santa Claus, "I'm glad I've finally found you three! Come on, it's time we got you home."
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="final-options">
+  
+  <div class="option">
+  <a href="flying-home.html"><img src="images/santa-on-tipsycake.png" alt="Rescued by Tipsycake"<div>Rescued by Tipsycake</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

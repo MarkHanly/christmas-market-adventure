@@ -1,0 +1,14 @@
+{
+  "hash": "62a5b59c01f53703e12a9aa5475b3ce3",
+  "result": {
+    "markdown": "---\ntitle: \"\"\ninclude-after-body:\n  text: |\n    <script>\n      document.getElementById(\"back\").addEventListener(\"click\", () => {\n        window.history.back();\n      });\n    </script>\n---\n\n\n\n\n:::::: {.scenario .column-screen}\n\n:::: {.column-body .scenario-text}\n\n## The Snowmen\n\n::::\n\n::: {.column-body .scenario-image}\n\n![](images/mrs-claus-chases-snowmen.png)\n\n:::\n\n:::: {.column-body .scenario-text}\n\nAs Hannah, Meghan and Jingleberry landed among the snowmen, a chilly hush settled over the glade. From afar the snowmen had looked cheerful, but up close Hannah could see the anger in their coal black eyes.\n\nTwo of the closest snowmen heard Jingleberry jingling and they started to move towards the girls and the elf. \n\n\"Oh snowballs\" tolled Jingleberry. Hannah and Meghan were starting to feel nervous.\n\nJust then the glade was filled with the smell of chocolate biscuits and warm milk and the reassuring sound of Mrs Claus stomping through the night-time forest.\n\n\"Away with you, dirty Snowmen\" roared Mrs Claus with glee, brandishing a poker at the powdery snowmen. Their frosty faces melted into the shadows. \n\n\"Oh darlings it's good to meet you, I'm looking for Santa and his sleigh\" explained Mrs Claus. \"It's Christmas eve but he can't be found\". Can you help me search the night-time forest? Or perhaps we should go back to the stable to fetch Tipsycake. \n\n::::\n\n:::: {.column-body .scenario-image}\n::: {style=\"text-align: center;\"}\n### What will you choose?\n:::\n\n\n  ```{=html}\n<div class=\"container\">\n\n  <div id=\"back\">\n  <img src=\"images/back.png\" alt=\"Go back\" style=\"width: 100px; height: 100px; margin-right: 10px;\">Go back\n  </div>\n  \n  <div class=\"options\">\n  <div class=\"option\">\n  <a href=\"sleigh-on-foot.html\"><img src=\"images/sleigh.png\" alt=\"Search for Santa's sleigh\"><div>Search for Santa's sleigh</div></a>\n  </div>\n  \n  <div class=\"option\">\n  <a href=\"tipsycake.html\"><img src=\"images/stable.png\" alt=\"The stable\"><div>The stable</div></a>\n  </div>\n\n  </div>\n  ```\n\n\n::::\n\n\n\n\n::::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

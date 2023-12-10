@@ -1,0 +1,62 @@
+---
+title: ""
+include-before-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Flying home
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/sisters-sleigh.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+With Santa and Jingleberry safely aboard, Hannah and Meghan trotted forward, easily pulling the heavy sleigh behind them. As she reached a canter the sleigh began to lift into the star-studded sky. "Ho ho ho" called Santa, his booming joining the sound of jingling sleigh bells echoing through the night. 
+
+Hannah and Meghan guided the sleigh over snow-covered fields and vast, glowing cities. The girls felt proud knowing they were helping to spread festive joy to children around the world. 
+
+Realising that it was getting late, Santa directed the sleigh towards Hubbard Woods. The two rein-girls descended lightly outside their home, and as her hooves touched the snow the last of the magic melted away and Hannah and Meghan transformed back to little girls.
+
+Santa smiled warmly at the sisters and said, "Thank you, my dears, for helping me on this Christmas night. It's time for you to head inside and await the wonders of the morning. 
+
+Santa looked on kindly as Hannah and Meghan hugged Jingleberry goodbye. With a final "Ho, ho, ho!" Santa returned to the sky, leaving the girls behind with the magic of Christmas in their hearts.
+
+Falling asleep in their cozy beds, Hannah and Meghan dreamed of Christmas markets and chocolate reindeer. They dreamed of angry snowmen and Mrs Claus. They dreamed of flying as a reindeer high above the night-time forest. 
+
+***
+
+Hannah and Meghan dreamed of a kind, jingling voice asking "Where will I leave the girls' stockings, Santa?" 
+
+"Ho Ho Ho" came the reply "just leave them by there, over the fireplace". 
+
+::::
+
+::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### The End
+:::
+![](images/sisters-safe-home.png)
+
+:::
+
+
+
+::::::

@@ -1,0 +1,16 @@
+{
+  "hash": "81c227c3a142de9fb4e59066da7eac9c",
+  "result": {
+    "markdown": "---\ntitle: \"\"\n---\n\n\ncontent @fig-plot1 and @fig-plot2\n\n::: panel-tabset\n## plot1\n\n\n::: {.cell}\n::: {.cell-output-display}\n![figure 1](test_files/figure-html/fig-plot1-1.png){#fig-plot1 width=672}\n:::\n:::\n\n\n## plot2\n\n\n::: {.cell}\n::: {.cell-output-display}\n![figure 2](test_files/figure-html/fig-plot2-1.png){#fig-plot2 width=672}\n:::\n:::\n\n:::\n\n",
+    "supporting": [
+      "test_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

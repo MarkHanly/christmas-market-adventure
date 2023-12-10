@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: " "
+  image: "images/tipsycake-side-profile"
+  page-footer:
+    left: "[Go back to the start 🎄](index.html)"
+    right: "[About](about.html)"
+  
+
+format:
+  html:
+    theme: 
+      - sketchy
+      - custom.scss
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    licence: "CC BY-NC"
+

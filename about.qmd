@@ -1,0 +1,29 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+::: {.column-body .scenario-text}
+## About
+:::
+
+::: {.column-body .scenario-image}
+![](images/tipsycake-side-profile.png)
+:::
+
+::: {.column-body .scenario-text}
+Your guess is as good as mine.
+:::
+
+::::::

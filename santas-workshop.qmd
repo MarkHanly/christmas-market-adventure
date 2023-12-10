@@ -1,0 +1,73 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## Santa's workshop
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/mrs-claus.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+Santa's workshop was nestled in a clearing deep within the night-time forest. As Hannah, Meghan and Jingleberry approached they could hear the rhythmic sound of hammers and cheerful singing. 
+
+Home at last! cried Jingleberry happily. But his smile did not last long.
+
+At the entrance of the workshop, they were welcomed by Mrs. Claus, who wore a worried expression. "Oh, hello dears! Have you seen Santa by any chance? It's Christmas eve and he's nowhere to be found, I'm starting to get a little worried."
+
+Hannah and Meghan exchanged worried glances. "We could go back and search the night-time forest?", suggested Jingleberry. 
+
+Or... said Mrs Claus thoughtfully looking towards the lamp-lit stable, there's always Tipsycake?
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="sleigh-on-foot.html"><img src="images/night-time-forest.png" alt="Go back on foot"><div>Go back on foot</div></a>
+  </div>
+
+  <div class="option">
+  <a href="tipsycake.html"><img src="images/stable.png" alt="Go to the stable"<div>Go to the stable</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

@@ -1,0 +1,67 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Christmas Market
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/market.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+As Hannah and Meghan entered the market, their eyes sparkled with excitement. The first thing they saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted the sisters with their deliciously festive smells.
+
+Further down the glittering path, Hannah and Meghan spied a mysterious tent, where a wise old fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="chocolate-stall.html"><img src="images/chocolate-stall.png" alt="The chocolate stall"><div>The chocolate stall</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="madame-mistletoe.html"><img src="images/fortune-teller.png" alt="The fortune teller"><div>The fortune teller</div></a>
+  </div>
+  
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::

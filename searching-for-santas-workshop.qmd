@@ -1,0 +1,83 @@
+---
+title: ""
+include-after-body:
+  text: |
+    <script>
+      document.getElementById("back").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+:::::: {.scenario .column-screen}
+
+:::: {.column-body .scenario-text}
+
+## The Snowboys
+
+::::
+
+::: {.column-body .scenario-image}
+
+![](images/mrs-claus-chases-snowmen.png)
+
+:::
+
+:::: {.column-body .scenario-text}
+
+"Don't worry Jingleberry", said Hannah kindly, "We'll help you find Santa's Workshop!"
+
+"Oh thank you" chimed the little elf, gaily. "I like your bells" said Meghan, as the sisters followed the elf deeper into the night-time forest. The little elf glowed red with happiness. 
+
+Hannah, Meghan and Jingleberry had been walking for some time when suddenly some powdery snow fell on the sisters hair. "Oh!" they shivered, "it looks like it's starting to snow".
+
+"That's not snow", tolled Jingleberry in fright, "that's Snow*boys*!" 
+
+A chilly hush settled over the glade, as Hannah and Meghan turned to face the Snowboys. The sisters could see their thorny briar-stick arms and the anger in their coal black eyes.
+
+The snowboys started to move towards the two girls and the elf. "Oh snowballs" donged Jingleberry. Hannah and Meghan were starting to feel nervous.
+
+Just then the glade was filled with the smell of chocolate biscuits and warm milk and the reassuring sound of sensible boots stomping through the night-time forest.
+
+From the trees emerged a rosy-cheeked woman dressed in a warm red coat. Her grey hair shimmered in the moonlight. "It's Mrs Claus!" pealed Jingleberry, dancing excitedly in the snow.
+
+"Away with you, dirty stop-outs" roared with Mrs Claus with glee, brandishing a poker at the powdery snowboys. Their frosty faces melted into the shadows. 
+
+"Oh darlings it's good to meet you, I'm looking for Santa and his sleigh" explained Mrs Claus. "It's Christmas eve but he can't be found". Can you help me search the night-time forest? Or perhaps we should go back to the stable to fetch Tipsycake. 
+
+::::
+
+:::: {.column-body .scenario-image}
+::: {style="text-align: center;"}
+### What will you choose?
+:::
+
+  ```{=html}
+<div class="container">
+
+  <div id="back">
+  <img src="images/back.png" alt="Go back" style="width: 100px; height: 100px; margin-right: 10px;">Go back
+  </div>
+  
+  <div class="options">
+  <div class="option">
+  <a href="sleigh-on-foot.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Santa's sleigh</div></a>
+  </div>
+  
+  <div class="option">
+  <a href="tipsycake.html"><img src="images/stable.png" alt="The stable"><div>The stable</div></a>
+  </div>
+
+  </div>
+  ```
+
+::::
+
+
+
+
+::::::
