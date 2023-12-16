@@ -55,7 +55,7 @@ With a gallop of hooves and a golden spark, Hannah, Meghan and Jingleberry rose 
   
   <div class="final-options">
   <div class="option">
-  <a href="sleigh-tipsycake.html"><img src="images/sleigh.png" alt="Santa's sleigh"><div>Santa's sleigh</div></a>
+  <a href="sleigh-tipsycake.html"><img src="images/sleigh.png" alt="Click here to find Santa's sleigh"><div>Click here to find Santa's sleigh</div></a>
   </div>
   
   </div>

@@ -29,9 +29,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-As Hannah and Meghan entered the market, their eyes sparkled with excitement. The first thing they saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted the sisters with their deliciously festive smells.
+Hannah and Meghan's eyes sparkled with excitement as they entered the Christmas market.  Hannah was three and Meghan was two. This was their first time going to the Christmas market, and on Christmas eve too!
 
-Further down the glittering path, Hannah and Meghan spied a mysterious tent, where a wise old fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
+The first thing they saw was a dazzling chocolate stall, where the air was filled with the sweet aroma of warm, melted chocolate. Chocolate Santas, snowmen, and reindeer tempted the sisters with their deliciously festive smells.
+
+Further down the glittering path, Hannah and Meghan spied a mysterious tent, where a wise red-haired fortune-teller sat surrounded by twinkling fairy lights. The tent seemed to glow with magical energy. 
 
 ::::
 

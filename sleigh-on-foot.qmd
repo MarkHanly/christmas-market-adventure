@@ -62,7 +62,7 @@ Tipsycake was as white as freshly fallen snow, her mane was a glittering pink ti
   <div class="final-options">
   
   <div class="option">
-  <a href="flying-home.html"><img src="images/santa-on-tipsycake.png" alt="Rescued by Tipsycake"<div>Rescued by Tipsycake</div></a>
+  <a href="flying-home.html"><img src="images/santa-on-tipsycake.png" alt="Click here to fly home with Tipsycake"<div>Click here to fly home with Tipsycake</div></a>
   </div>
   
   </div>

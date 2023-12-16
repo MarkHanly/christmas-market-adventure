@@ -63,7 +63,7 @@ Why this is the way to Santa's workshop, silly goose! teased Jingleberry. Just k
   
   <div class="options">
   <div class="option">
-  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Search for Santa's workshop"<div>Continue to Santa's workshop</div></a>
+  <a href="santas-workshop.html"><img src="images/santas-workshop.png" alt="Search for Santa's workshop"><div>Search for Santa's workshop</div></a>
   </div>
   
   <div class="option">
