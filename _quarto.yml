@@ -4,8 +4,10 @@ project:
 
 
 website:
-  title: " "
-  image: "images/tipsycake-side-profile"
+  title: "Hannah and Meghan's Christmas Adventure"
+  site-url: https://markhanly.github.io/christmas-market-adventure/
+  image: /docs/images/tipsycake-side-profile.png
+  favicon: images/favicon.ico
   page-footer:
     left: "[Go back to the start 🎄](index.html)"
     right: "[About](about.html)"
