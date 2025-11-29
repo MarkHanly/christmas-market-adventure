@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::: {.column-body .scenario-text}
 
-Hannah and Meghan wandered wandered towards the fortune tellers, their eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As they approached the tent they noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
+Hannah and Meghan wandered towards the fortune-teller's tent, their eyes wide with wonder at the colorful stalls and the delightful aroma of holiday treats. As they approached the tent they noticed a sign that read, "Madame Mistletoe's Magical Fortunes."
 
 Intrigued, Hannah and Meghan entered the tent, where the air was filled with the scent of cinnamon and nutmeg. Inside, they found a cozy space with cushions and draped fabrics. In the center sat Madame Mistletoe, a kindly enchantress with long red hair and twinkling green eyes.
 

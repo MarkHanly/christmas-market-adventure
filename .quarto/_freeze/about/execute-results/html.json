@@ -1,7 +1,8 @@
 {
-  "hash": "523d326d490ac0100b85c11113f41f4e",
+  "hash": "49db336daac9187d6fd74629bcf5bb6d",
   "result": {
-    "markdown": "---\ntitle: \"\"\ninclude-after-body:\n  text: |\n    <script>\n      document.getElementById(\"back\").addEventListener(\"click\", () => {\n        window.history.back();\n      });\n    </script>\n---\n\n\n\n\n:::::: {.scenario .column-screen}\n::: {.column-body .scenario-text}\n## About\n:::\n\n::: {.column-body .scenario-image}\n![](images/tipsycake-side-profile.png)\n:::\n\n::: {.column-body .scenario-text}\nYour guess is as good as mine.\n:::\n\n::::::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\ninclude-after-body:\n  text: |\n    <script>\n      document.getElementById(\"back\").addEventListener(\"click\", () => {\n        window.history.back();\n      });\n    </script>\n---\n\n\n\n\n\n:::::: {.scenario .column-screen}\n::: {.column-body .scenario-text}\n## About\n:::\n\n::: {.column-body .scenario-image}\n![](images/tipsycake-side-profile.png)\n:::\n\n::: {.column-body .scenario-text}\nChildren around the world have known of the existence of Christmas Unicorns for centuries.\n\nThese noble creatures still thrive in small, isolated pockets above 51° North---on Gotland Island, the Glen of Imaal, and across the Yakutsk plains. There are even some wild herds in the Antipodes, notably in the foothills of Cradle Mountain on the Island of Tasmania and the snowy slopes of Tierra del Fuego.\n\nAll of these branches were calved from the original herds found in the northern ranges of Lapland where they still number in their tens of thousands.\n\nLike all of Santa's Christmas Unicorns, Tipsycake comes from this herd.\n:::\n\n::::::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

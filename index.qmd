@@ -4,9 +4,9 @@ title: ""
 
 :::{.column-screen}
 ```{=html}
-<img src='images/home.gif' style = "width:100%; height: auto;">
+<img src='images/home.gif' style = "width:100%; height: auto">
 
-    <div class="text-overlay">
+    <div class="text-overlay" style = "margin-top: 20px;">
       <h2>Hannah and Meghan's Christmas Adventure</h2>
       <a href="market.html" 
       <p><span style="font-family: 'Lucida Console'; text-decoration:none; color: white;">Start the Adventure</span></p>
